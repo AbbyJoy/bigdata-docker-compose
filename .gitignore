@@ -11,3 +11,6 @@ data/batches/*
 
 # Spark job results
 data/output/
+
+#custom data: Folder for putting custom data to put in the container without pushing to git.
+data/custom
