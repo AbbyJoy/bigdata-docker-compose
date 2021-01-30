@@ -14,3 +14,7 @@ data/output/
 
 #custom data: Folder for putting custom data to put in the container without pushing to git.
 data/custom
+
+# ignore all additional notebooks added into the zeppelin_notebooks directory except for the original one
+zeppelin_notebooks/*
+!zeppelin_notebooks/2EKGZ25MS
